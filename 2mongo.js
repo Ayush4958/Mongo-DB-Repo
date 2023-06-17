@@ -1,4 +1,3 @@
-// Searching the data for mongodb
 
 // use ayushcart
 
